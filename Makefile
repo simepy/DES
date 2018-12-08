@@ -6,9 +6,9 @@
 
 
 SRC	= main-des.c \
-			key-des.c \
-			msg-des.c \
-			utils-des.c
+	  key-des.c \
+	  msg-des.c \
+	  utils-des.c
 
 OBJ	= $(SRC:.c=.o)
 
