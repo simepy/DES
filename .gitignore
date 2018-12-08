@@ -29,6 +29,7 @@
 *.dylib
 
 # Executables
+./my_des
 *.exe
 *.out
 *.app
